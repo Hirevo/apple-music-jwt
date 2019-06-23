@@ -2,6 +2,9 @@
 //! This is an Apple Music developer token generator, written in Rust.  
 //! It generates the JSON Web Token, given a team ID, a key ID and its associated private key file.
 //! 
+//! Here's the official documentation from Apple on how it is done and how to get the necessary keys:  
+//! <https://developer.apple.com/documentation/applemusicapi/getting_keys_and_creating_tokens>
+//! 
 //! Usage
 //! -----
 //! 
