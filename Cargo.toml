@@ -1,0 +1,12 @@
+[package]
+name = "apple-music-jwt"
+version = "1.0.0"
+authors = ["Nicolas Polomack <nicolas@polomack.eu>"]
+edition = "2018"
+
+[dependencies]
+frank_jwt = "3.1.1"
+serde_json = "1.0.39"
+chrono = "0.4.6"
+structopt = "0.2.16"
+humantime = "1.2.0"
