@@ -3,6 +3,10 @@ name = "apple-music-jwt"
 version = "1.0.0"
 authors = ["Nicolas Polomack <nicolas@polomack.eu>"]
 edition = "2018"
+description = "An Apple Music developer token generator, written in Rust"
+repository = "https://github.com/Hirevo/apple-music-jwt"
+categories = ["command-line-utilities", "authentication"]
+keywords = ["apple", "apple-music", "jwt", "tokens", "auth"]
 
 [dependencies]
 frank_jwt = "3.1.1"
